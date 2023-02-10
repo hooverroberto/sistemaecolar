@@ -1,5 +1,3 @@
 <?php
 
-$conexion = new mysqli("localhost", "root", "", "escolar");
-
-?>
+$conexion = new mysqli("php_8_mysql", "root", "pass", "escolar");
